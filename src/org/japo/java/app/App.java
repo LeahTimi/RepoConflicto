@@ -35,7 +35,7 @@ public final class App {
 
     public final void launchApp() {
 
-        System.out.println("Algo complicado B");
+        System.out.println("Algo complicado B2");
         
     }
    
